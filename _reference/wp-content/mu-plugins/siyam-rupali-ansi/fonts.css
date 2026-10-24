@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SiyamRupaliANSI';
+    src: url('fonts/SiyamRupaliANSI.eot');
+    src: url('fonts/SiyamRupaliANSI.eot') format('embedded-opentype'),
+         url('fonts/SiyamRupaliANSI.woff2') format('woff2'),
+         url('fonts/SiyamRupaliANSI.woff') format('woff'),
+         url('fonts/SiyamRupaliANSI.ttf') format('truetype'),
+         url('fonts/SiyamRupaliANSI.svg#SiyamRupaliANSI') format('svg');
+}
+
+body {
+    font-family: 'SiyamRupaliANSI';
+}
